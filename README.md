@@ -13,8 +13,7 @@ This is a simple social media application built using **React** and **Vite**. Us
 
 ## 📸 Screenshot
 
-![App Screenshot](<img width="1912" height="877" alt="image" src="https://github.com/user-attachments/assets/8d465483-cd43-431c-9c7a-8c74af8c56c1" />
-)
+![App Screenshot](screenshot.png)
 
 ## 🚀 Tech Stack
 
