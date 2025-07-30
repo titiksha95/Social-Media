@@ -1,12 +1,59 @@
-# React + Vite
+# 🧑‍🤝‍🧑 Social Media App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple social media application built using **React** and **Vite**. Users can create posts with tags, view them in a card layout, and see reactions from others. The app includes a sidebar for navigation, a responsive layout, and a modern UI design.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🌐 Create and view posts
+- 🏷️ Add tags to posts
+- 💬 Show reaction count
+- 🧹 Delete posts
+- 📱 Responsive sidebar layout
+- 🔐 Login and Sign-up buttons (UI only)
 
-## Expanding the ESLint configuration
+## 📸 Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![App Screenshot](<img width="1912" height="877" alt="image" src="https://github.com/user-attachments/assets/8d465483-cd43-431c-9c7a-8c74af8c56c1" />
+)
+
+## 🚀 Tech Stack
+
+- **Frontend**: React + Vite
+- **Styling**: CSS, Bootstrap (assumed from UI)
+- **Icons**: React Icons
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v16 or later)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/social-media-react-vite.git
+cd social-media-react-vite
+
+# Install dependencies
+npm install
+# or
+yarn
+```
+
+### Run the app
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+The app will be available at [http://localhost:5173](http://localhost:5173)
+
+
+Made with ❤️ using React and Vite
+
