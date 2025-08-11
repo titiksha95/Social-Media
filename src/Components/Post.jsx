@@ -24,8 +24,9 @@ const Post = ({ post }) => {
           </span>
         ))}
         <div className="alert alert-success reactions" role="alert">
-          <div>Reactions: 👍 {post.reactions.likes} | 👎 {post.reactions.dislikes}</div>
-
+          <div>
+            Likes: {post.reactions.likes}, Dislikes: {post.reactions.dislikes}
+          </div>
         </div>
       </div>
     </div>
