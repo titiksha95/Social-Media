@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/social-media-react-vite.git
+git clone https://github.com/titiksha95/social-media-react-vite.git
 cd social-media-react-vite
 
 # Install dependencies
