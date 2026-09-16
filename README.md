@@ -11,7 +11,7 @@ This is a simple social media application built using **React** and **Vite**. Us
 -  Responsive sidebar layout
 -  Login and Sign-up buttons (UI only)
 
-## 📸 Screenshot
+##  Screenshot
 
 ![App Screenshot](screenshot.png)
 
