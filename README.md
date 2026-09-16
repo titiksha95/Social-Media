@@ -1,27 +1,27 @@
-# 🧑‍🤝‍🧑 Social Media App
+#  Social Media App
 
 This is a simple social media application built using **React** and **Vite**. Users can create posts with tags, view them in a card layout, and see reactions from others. The app includes a sidebar for navigation, a responsive layout, and a modern UI design.
 
-## ✨ Features
+##  Features
 
-- 🌐 Create and view posts
-- 🏷️ Add tags to posts
-- 💬 Show reaction count
-- 🧹 Delete posts
-- 📱 Responsive sidebar layout
-- 🔐 Login and Sign-up buttons (UI only)
+-  Create and view posts
+-  Add tags to posts
+-  Show reaction count
+-  Delete posts
+-  Responsive sidebar layout
+-  Login and Sign-up buttons (UI only)
 
 ## 📸 Screenshot
 
 ![App Screenshot](screenshot.png)
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend**: React + Vite
 - **Styling**: CSS, Bootstrap (assumed from UI)
 - **Icons**: React Icons
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -51,6 +51,4 @@ npm run dev
 yarn dev
 ```
 
-
-Made with ❤️ using React and Vite
 
